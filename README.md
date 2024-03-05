@@ -58,7 +58,7 @@ The following steps summarize the workflow of the breast cancer prediction model
 <table>
   <tr>
     <td>
-      <img src="Images/lambda.png" alt="Classification Report" style="width: 400px; height: 250px; object-fit: cover" title="classification report"/>
+      <img src="Images/Lambda.png" alt="Classification Report" style="width: 400px; height: 250px; object-fit: cover" title="classification report"/>
     </td>
   </tr>
 </table>
